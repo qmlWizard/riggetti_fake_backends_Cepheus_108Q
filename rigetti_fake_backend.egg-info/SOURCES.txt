@@ -1,0 +1,16 @@
+LICENSE
+README.md
+pyproject.toml
+fakecephus_108q/__init__.py
+fakecephus_108q/specs.py
+fakecephus_108q/pyquil/__init__.py
+fakecephus_108q/pyquil/backend.py
+fakecephus_108q/qiskit/__init__.py
+fakecephus_108q/qiskit/backend.py
+fakecephus_108q/qiskit/noise.py
+rigetti_fake_backend.egg-info/PKG-INFO
+rigetti_fake_backend.egg-info/SOURCES.txt
+rigetti_fake_backend.egg-info/dependency_links.txt
+rigetti_fake_backend.egg-info/requires.txt
+rigetti_fake_backend.egg-info/top_level.txt
+tests/test_fakecephus_108q.py
